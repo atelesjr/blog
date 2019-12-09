@@ -26,7 +26,6 @@ const IndexScreen = ({ navigation }) => {
                         
                     );
                 }}
-            
             />
         </View>
             
